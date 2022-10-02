@@ -2,7 +2,7 @@
 - 👀 I’m interested in PHP, Node, Angular Projects, eager to learn IOT 
 - 🌱 I’m currently learning Angular, Nodejs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... samprasad123@gmail.com
 
 <!---
 samprasad/samprasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
